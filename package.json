@@ -1,0 +1,7 @@
+{
+  "name": "ritik-dandir-card",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "vite --base=./", "build": "vite build --base=./", "preview": "vite preview" },
+  "devDependencies": { "vite": "^6.1.0" }
+}
